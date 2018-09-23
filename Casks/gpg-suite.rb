@@ -1,10 +1,10 @@
-cask 'gpg-suite' do
+cask 'gpg-suite-free' do
   version '2018.3'
   sha256 '00a6d0c69dd050acd2df4a34bf8502d4e0de3af9b4f7523a0003af14b60006be'
 
   url "https://releases.gpgtools.org/GPG_Suite-#{version}.dmg"
   appcast 'https://gpgtools.org/releases/gka/appcast.xml'
-  name 'GPG Suite'
+  name 'GPG Suite Free'
   homepage 'https://gpgtools.org/'
 
   auto_updates true

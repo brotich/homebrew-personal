@@ -14,7 +14,7 @@ $ brew tap brotich/personal
 You can now install alternate versions of Casks.
 
 ```sh
-$ brew cask install gpg-suite
+$ brew cask install gpg-suite-free
 ```
 
 ## License
